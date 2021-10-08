@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a2a2a2;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #404040;
+      }
+    </style>
+  </defs>
+  <path id="Shape_4_copy" data-name="Shape 4 copy" class="cls-1" d="M31,0L44,7V8L31,15V12l8-4V7L31,3V0ZM-169,0l-13,7V8l13,7V12l-8-4V7l8-4V0ZM-19,0h5V15h-5V0Zm-8,0h5V15h-5V0ZM-62,7L-75,0V15l13-7V7Zm197,3,9-9,4,4-9,9h-4V10ZM145,0l2-2h2l2,2V2l-2,2ZM80,0L93,7V8L80,15V12l8-4V7L80,3V0ZM-121,0l-13,7V8l13,7V12l-8-4V7l8-4V0ZM95,0h3V15H95V0ZM-187,0h3V15h-3V0Z"/>
+  <path id="Shape_4_copy_2" data-name="Shape 4 copy 2" class="cls-2" d="M31,0L44,7V8L31,15V12l8-4V7L31,3V0ZM-169,0l-13,7V8l13,7V12l-8-4V7l8-4V0ZM-19,0h5V15h-5V0Zm-8,0h5V15h-5V0ZM-62,7L-75,0V15l13-7V7Zm197,3,9-9,4,4-9,9h-4V10ZM145,0l2-2h2l2,2V2l-2,2ZM80,0L93,7V8L80,15V12l8-4V7L80,3V0ZM-121,0l-13,7V8l13,7V12l-8-4V7l8-4V0ZM95,0h3V15H95V0ZM-187,0h3V15h-3V0ZM-19,0h5V15h-5V0Zm-8,0h5V15h-5V0Z"/>
+  <path id="full_screen" data-name="full screen" class="cls-1" d="M3,3V5H0V0H5V3H3ZM5,15H0V10H3v2H5v3ZM12,5V3H10V0h5V5H12Zm0,10H10V12h2V10h3v5H12Z"/>
+  <path id="full_screen_copy" data-name="full screen copy" class="cls-2" d="M12,15H10V12h2V10h3v5H12ZM12,3H10V0h5V5H12V3ZM0,15V10H3v2H5v3H0ZM3,5H0V0H5V3H3V5Z"/>
+</svg>

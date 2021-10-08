@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Vizzu workshop</title>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" media="screen" href="style.css">
+	</head>
+<body>
+	<noscript>
+		<p class="noscript">To use Vizzu, please enable Javascript.</p>
+	</noscript>
+
+	<div id="myCanvas" style="width:640px; height:446px; margin: auto"></div>
+	<div>
+		<input id="btn-start" class="button" type="image" src="../images/start_act.svg"></input>
+		<input id="btn-prev" class="button" type="image" src="../images/prev_act.svg"></input>
+		<input id="btn-play" class="button" type="image" src="../images/play_act.svg"></input>
+		<input type="range" min="1" max="1000" step="1" value="0" id="myRange">
+		<input id="btn-next" class="button" type="image" src="../images/next_act.svg"></input>
+		<input id="btn-end" class="button" type="image" src="../images/end_act.svg"></input>
+		<input id="btn-fullscreen" class="button" type="image" src="../images/fullscreen_act.svg"></input>
+	</div>
+
+	<script type="module" src="story.js"></script>
+</body>
+</html>
