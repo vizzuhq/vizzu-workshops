@@ -101,7 +101,7 @@ export default class Presentation
 
 		if (needSwitch)
 		{
-			this.anim = this.gotoSlide(slide - 1);
+			this.anim = this.gotoSlide(slide - 1, 0);
 			this.seekEnd();
 			
 			this.anim.then(chart => {
