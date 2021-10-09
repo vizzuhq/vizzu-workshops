@@ -18,3 +18,8 @@ Workshops:
 		- hosted: http://vizzuhq.github.io/vizzu-workshops/2021-10-09-MOME/base-mobile-fixed-broadband/
 		- source: https://github.com/vizzuhq/vizzu-workshops/tree/main/2021-10-09-MOME/base-mobile-fixed-broadband
 		- jsfiddle: 
+	- example (Music industry)
+		- hosted: http://vizzuhq.github.io/vizzu-workshops/2021-10-09-MOME/base-music-industry/
+		- source: https://github.com/vizzuhq/vizzu-workshops/tree/main/2021-10-09-MOME/base-music-industry
+		- jsfiddle: 
+

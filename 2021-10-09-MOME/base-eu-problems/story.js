@@ -22,4 +22,17 @@ story.addSlide(
 	})
 );
 
+story.addSlide(
+	chart => chart.animate({
+		data: {
+			filter: record => 
+				record['Problem'] == 'Climate change' 
+		},
+		config: {
+			title: 'EU average - climate change',
+			sort: 'none', //We don't need sorting by value anymore
+		}
+	})
+);
+
 story.start();
