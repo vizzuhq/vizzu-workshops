@@ -18,10 +18,7 @@ story.addSlide(
 			},
 			title: 'Services over time in the World',
 			geometry: 'line'
-		},
-		style: {
-			plot: { paddingLeft: 200 },
-		},
+		}
 	})
 );
 
