@@ -7,8 +7,7 @@ let story = new Presentation('myCanvas', { data });
 story.addSlide(
 	chart => chart.animate({
 		data: {
-			filter: record =>
-				record["Category"] == 'World'
+			filter: record => record["Category"] == 'World'
 		},
 		config: {
 			channels: {
@@ -16,7 +15,7 @@ story.addSlide(
 				x: { set: ['Year'] },
 				color: { attach: ['Service'] },
 			},
-			title: 'Services over time in the World',
+			title: 'Subscriptions over time in the world',
 			geometry: 'line'
 		}
 	})
@@ -26,12 +25,14 @@ story.addSlide(
 	chart => chart.animate({
 		config: {
 			channels:{
-				y:{set: ['per 100']
-				},
+			  y:{set: ['per 100']
+			  },
 			},
-			title:'Services over time in the World per 100'
-		},
+			title:'Subscriptions over time in the world per 100'
+		}
 	})
 );
 
 story.start();
+
+
