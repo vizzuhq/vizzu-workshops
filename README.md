@@ -14,13 +14,13 @@ Workshops:
 	- example (EU problems)
 		- hosted: http://vizzuhq.github.io/vizzu-workshops/2021-10-09-MOME/base-eu-problems/
 		- source: https://github.com/vizzuhq/vizzu-workshops/tree/main/2021-10-09-MOME/base-eu-problems
-		- jsfiddle: 
+		- jsfiddle: https://jsfiddle.net/VizzuHQ/pdv178r2/1/
 	- example (Mobile/Fixed/Broadband)
 		- hosted: http://vizzuhq.github.io/vizzu-workshops/2021-10-09-MOME/base-mobile-fixed-broadband/
 		- source: https://github.com/vizzuhq/vizzu-workshops/tree/main/2021-10-09-MOME/base-mobile-fixed-broadband
-		- jsfiddle: 
+		- jsfiddle: https://jsfiddle.net/VizzuHQ/872w0eLa/1/
 	- example (Music industry)
 		- hosted: http://vizzuhq.github.io/vizzu-workshops/2021-10-09-MOME/base-music-industry/
 		- source: https://github.com/vizzuhq/vizzu-workshops/tree/main/2021-10-09-MOME/base-music-industry
-		- jsfiddle: 
+		- jsfiddle: https://jsfiddle.net/VizzuHQ/og206u7a/2/
 
