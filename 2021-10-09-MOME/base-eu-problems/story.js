@@ -35,4 +35,38 @@ story.addSlide(
 	})
 );
 
+story.addSlide(
+	chart => chart.animate({
+		config: {
+				x:{
+					attach: 'Country'
+				},
+				label: null,
+			title: 'EU average - climate change'
+		}
+	})
+);
+
+story.addSlide(
+	chart => chart.animate({
+		config: {
+				x:{ 
+					detach: 'EU avg [%]'
+				},
+				y: {
+					attach: 'Country avg [%]'
+				},
+			title: 'Country averages - climate change'
+		},
+	})
+);
+
+story.addSlide(
+	chart => chart.animate({
+		config: {
+			sort: 'byValue',
+		}
+	})
+);
+
 story.start();
