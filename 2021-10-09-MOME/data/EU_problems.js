@@ -1,6 +1,6 @@
 export var data = {
 	series: [
-	  { name: 'Country name', type: 'dimension' },
+	  { name: 'Country', type: 'dimension' },
 	  { name: 'Region', type: 'dimension' },
 	  { name: 'Problem', type: 'dimension' },
 	  { name: 'Age group', type: 'dimension' },
