@@ -22,5 +22,7 @@ ipyvizzu-story repo: https://github.com/vizzuhq/ipyvizzu-story - :star2:'s are v
 Tell a data story about a subset of the data science community represented in this survey, through a combination of both narrative text and data exploration. A “story” could be defined any number of ways, and that’s deliberate. The challenge is to deeply explore (through data) the impact, priorities, or concerns of a specific group of data science and machine learning practitioners. 
   
   Prizes: https://www.kaggle.com/competitions/kaggle-survey-2022/overview/prizes
+  
   Paul Moony's awesome notebook with all the data prepped for analysis: https://www.kaggle.com/code/paultimothymooney/kaggle-survey-2022-all-results/notebook
+  
   Spreadsheet of the survey questions: https://docs.google.com/spreadsheets/d/1LqS3Ms3zqnbKOBeLTSYXZSslmbY5gUwh9JQYr0n4-pc/edit?usp=sharing 
