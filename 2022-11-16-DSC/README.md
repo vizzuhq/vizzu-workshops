@@ -1,10 +1,10 @@
-## Welcome to the ipyvizzu tutorial on PyData NYC 2022. It's great to have you here :blush:
+## Welcome to the ipyvizzu tutorial on DSC 2022. It's great to have you here :blush:
 
 We hope you'll enjoy this tutorial as much as we did gathering all these materials together for you. 
 
 Feel free to clone the contents of this repo, so you can see all the code on your machine that will be on the screen and make adjustments and experiment with the charts being shown during or after the tutorial. We'd love to see what you do with the examples we built.
 
-You can find all the notebooks with the examples in he notebooks folder, the data in the data folder and some HTML outputs too in the html folder. The ipyvizzu story about Donald Trump's tweets that was on show during the lighting talks yesterday is also there. 
+You can find all the notebooks with the examples and playground exercises in he notebooks folder, the data in the data folder and some HTML outputs too in the html folder. 
 
 #### Useful links
 ipyvizzu documentation, examples & tutorial: http://ipyvizzu.com/ - click on the links right beneath the animated Vizzu logo.
