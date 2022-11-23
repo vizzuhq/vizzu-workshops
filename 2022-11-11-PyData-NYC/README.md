@@ -15,6 +15,8 @@ ipyvizzu repo: https://github.com/vizzuhq/ipyvizzu
 
 ipyvizzu-story repo: https://github.com/vizzuhq/ipyvizzu-story - :star2:'s are very much appreciated.
 
+Data stories we built and shared with the public: https://www.reddit.com/user/vizzuhq/?sort=top
+
 ### Kaggle challenge
   Announcement and original source: https://www.kaggle.com/competitions/kaggle-survey-2022/overview
   
