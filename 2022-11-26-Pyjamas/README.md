@@ -20,3 +20,7 @@ ipyvizzu-story repo: https://github.com/vizzuhq/ipyvizzu-story - :star2:'s are v
 Slack: https://join.slack.com/t/vizzu-community/shared_invite/zt-w2nqhq44-2CCWL4o7qn2Ns1EFSf9kEg
 
 Reach out to us and let us know how to improve our products or how to make a better talk next time by sending an email to hello at vizzuhq dot com.
+
+### Workshop and Sprint @ PyData Global!
+For those of you who want to contribute to our tools or participate in a 90-minute intro workshop, come join us at PyData Global next Thursday and Friday (Dec. 1st and 2nd, 2022)
+https://pydata.org/global2022/
