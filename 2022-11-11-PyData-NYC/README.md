@@ -4,7 +4,7 @@ We hope you'll enjoy this tutorial as much as we did gathering all these materia
 
 Feel free to clone the contents of this repo, so you can see all the code on your machine that will be on the screen and make adjustments and experiment with the charts being shown during or after the tutorial. We'd love to see what you do with the examples we built.
 
-You can find all the notebooks with the examples in he notebooks folder, the data in the data folder and some HTML outputs too in the html folder. The ipyvizzu story about Donald Trump's tweets that was on show during the lighting talks yesterday is also there. 
+You can find all the **notebooks with the examples in he notebooks folder**, the data in the data folder and some HTML outputs too in the html folder. The ipyvizzu story about Donald Trump's tweets that was on show during the lighting talks yesterday is also there. 
 
 #### Useful links
 ipyvizzu documentation, examples & tutorial: http://ipyvizzu.com/ - click on the links right beneath the animated Vizzu logo.
@@ -14,6 +14,8 @@ ipyvizzu style settings https://docs.google.com/spreadsheets/d/1b3e9L72EmLKib2dO
 ipyvizzu repo: https://github.com/vizzuhq/ipyvizzu
 
 ipyvizzu-story repo: https://github.com/vizzuhq/ipyvizzu-story - :star2:'s are very much appreciated.
+
+Data stories we built and shared with the public: https://www.reddit.com/user/vizzuhq/?sort=top
 
 ### Kaggle challenge
   Announcement and original source: https://www.kaggle.com/competitions/kaggle-survey-2022/overview
