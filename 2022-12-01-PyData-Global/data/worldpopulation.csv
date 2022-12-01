@@ -1,4 +1,4 @@
-Continent,Subregion,Country,Year,Period,Medium,High,Low
+Continent,Subregion,Country,Year,Period,Pop_Medium,Pop_High,Pop_Low
 Africa,Eastern Africa,Burundi,1953,past,2449089,2449089,2449089
 Africa,Eastern Africa,Comoros,1953,past,169748,169748,169748
 Africa,Eastern Africa,Djibouti,1953,past,66273,66273,66273
