@@ -19,9 +19,13 @@ ipyvizzu-story repo: https://github.com/vizzuhq/ipyvizzu-story - :star2:'s are v
 
 ### Sample interactive reports in Streamlit
 https://blackary-streamlit-vizzu-example-app1-1ks8b0.streamlit.app/
+
 https://vizzu-streamlit-streamlit-vizzu-example-app1-cr5r1i.streamlit.app/
-https://vizzu-streamlit-world-population-story-app-3negv9.streamlit.app/
+
 https://kleink0910-streamlit-vizzu-music-industry-vlxfg6.streamlit.app/
+
+### ipyvizzu-story in Streamlit
+https://vizzu-streamlit-world-population-story-app-3negv9.streamlit.app/
 
 ### Come join our community!
 Slack: https://join.slack.com/t/vizzu-community/shared_invite/zt-w2nqhq44-2CCWL4o7qn2Ns1EFSf9kEg
