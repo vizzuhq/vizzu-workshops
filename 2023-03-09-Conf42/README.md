@@ -1,32 +1,22 @@
-## Welcome to the repo folder of the ipyvizzu tutorial for Quansight developers. 
-## It's great to have you here :blush:
+## Hello there!
+### Welcome to the repository folder for Conf42 talk: Let them explore! Building interactive, animated reports in Streamlit with ipyvizzu & a few lines of Python. 
+## We're thrilled to have you here with us! :blush:
 
-Feel free to clone the contents of this repo, so you can see all the code that was on the screen and make adjustments and experiment with the charts being shown during or after the talk. We'd love to see what you do with the examples we built.
+If you've watched the video, I'd like to ask you for a small favor. Can you please spare 2-3 minutes of your time and fill out this survey? Your valuable feedback will help me and the entire Vizzu team to better understand your needs and thoughts on what we do. Here's the link to the survey: https://forms.gle/UjDtpW7X9SKCdkWs8
 
-You can find all the example and playground notebooks in the notebooks folder, the data in the data folder and some HTML outputs in the html folder.
+In this readme and the repo, you'll find a collection of useful resources related to the talk, such as the ipyvizzu notebooks that I presented during the session, along with some additional ones that I've prepared for you to experiment and learn more about this powerful tool and its presentation extension: ipyvizzu-story.
+
+Moreover, you'll find some helpful links to the Streamlit app and its source code, the ipyvizzu documentation, as well as to the bidirectional component that integrates ipyvizzu into Streamlit.
 
 ### Useful links
-ipyvizzu documentation, examples & tutorial: http://ipyvizzu.com/ - click on the links right beneath the animated Vizzu logo.
-New ipyvizzu documentation site (in the making): https://ipyvizzu.vizzuhq.com/mkdocs/index.html
-
-ipyvizzu-story documentation, examples & tutorial: https://vizzuhq.github.io/ipyvizzu-story/index.html
-
-ipyvizzu style settings https://docs.google.com/spreadsheets/d/1b3e9L72EmLKib2dOZiBAOtPRLyibQJ3BkBIiVB2mKRg/edit#gid=1889754571
-
-ipyvizzu repo: https://github.com/vizzuhq/ipyvizzu
-
-ipyvizzu-story repo: https://github.com/vizzuhq/ipyvizzu-story - :star2:'s are very much appreciated.
-
-### Sample interactive reports in Streamlit
-https://blackary-streamlit-vizzu-example-app1-1ks8b0.streamlit.app/
-https://vizzu-streamlit-streamlit-vizzu-example-app1-cr5r1i.streamlit.app/
-https://vizzu-streamlit-world-population-story-app-3negv9.streamlit.app/
-https://kleink0910-streamlit-vizzu-music-industry-vlxfg6.streamlit.app/
+- The tutorial app for using ipyvizzu in Streamlit: https://intro-to-vizzu-in.streamlit.app/
+- Streamlit-Vizzu bidirectional component code, how-to and source code of the tutorial app: https://github.com/vizzu-streamlit/streamlit-vizzu
+- ipyvizzu repo: https://github.com/vizzuhq/ipyvizzu - :star2:'s are very much appreciated.
+- ipyvizzu documentation, examples & tutorial: http://ipyvizzu.com/ 
 
 ### Come join our community!
-Slack: https://join.slack.com/t/vizzu-community/shared_invite/zt-w2nqhq44-2CCWL4o7qn2Ns1EFSf9kEg
+Lastly, we'd like to invite you to join our community on Slack. We're always eager to welcome new members and help them get started, answer any questions you may have, and provide feedback and support for your projects and contributions. Here's the invite link: https://join.slack.com/t/vizzu-community/shared_invite/zt-w2nqhq44-2CCWL4o7qn2Ns1EFSf9kEg
 
-Reach out to us and let us know how to improve our products or how to make a better talk next time by sending an email to hello at vizzuhq dot com.
+Thank you for your time, and we look forward to hearing from you soon!
 
-## We'd really welcome your contribution!!!
-We'd love to have you on board and welcome you with open arms. Whether you're interested in proof-reading our docs or experimenting with integrating ipyvizzu with cdsdashboards, we're happy to receive your support and contributions. So don't hesitate to jump in and get involved – we can't wait to see what you'll bring to the table!
+    Peter & the Vizzu Team
