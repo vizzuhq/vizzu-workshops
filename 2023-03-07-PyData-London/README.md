@@ -9,6 +9,7 @@ In this readme and the repo, you'll find a collection of useful resources relate
 Moreover, you'll find some helpful links to some Streamlit apps that show how our tools work within that platform and the ipyvizzu documentation.
 
 ### Useful links
+- Slides of my presentation: https://drive.google.com/uc?export=download&id=1kzfc2UZDCWHp496Uu4fmELWvzlbXJsNb
 - ipyvizzu repo: https://github.com/vizzuhq/ipyvizzu - :star2:'s are very much appreciated.
 - ipyvizzu documentation, examples & tutorial: http://ipyvizzu.com/ 
 - https://ipyvizzu-story.vizzuhq.com
