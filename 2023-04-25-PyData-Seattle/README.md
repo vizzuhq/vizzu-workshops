@@ -19,4 +19,4 @@ In this readme and the repo, you'll find a collection of useful resources relate
 We'd like to invite you to join our community on Slack. We're always eager to welcome new members and help them get started, answer any questions you may have, and provide feedback and support for your projects and contributions. Here's the invite link: https://join.slack.com/t/vizzu-community/shared_invite/zt-w2nqhq44-2CCWL4o7qn2Ns1EFSf9kEg
 
 ### Get a sneak peek of our upcoming integration: ipyvizzu component in Streamlit
-- The tutorial app for using ipyvizzu in Streamlit: https://intro-to-vizzu-in.streamlit.app/
+https://intro-to-vizzu-in.streamlit.app/
