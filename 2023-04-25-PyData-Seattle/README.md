@@ -8,12 +8,10 @@ In this readme and the repo, you'll find a collection of useful resources relate
 - ipyvizzu documentation, examples & tutorial: http://ipyvizzu.com/ 
 - ipyvizzu-story documentation, examples & tutorial https://ipyvizzu-story.vizzuhq.com
 - available styling options: https://docs.google.com/spreadsheets/d/1b3e9L72EmLKib2dOZiBAOtPRLyibQJ3BkBIiVB2mKRg/edit#gid=0
-
-
+<br/><br/>
 - ipyvizzu repo: https://github.com/vizzuhq/ipyvizzu - :star2:'s are very much appreciated.
 - ipyvizzu-story repo: https://github.com/vizzuhq/ipyvizzu-story
-
-
+<br/><br/>
 - Sample app for using ipyvizzu-story in Streamlit: https://ipyvizzu-story-world-population.streamlit.app/
 - Related blog post: https://blog.streamlit.io/create-an-animated-data-story-with-ipyvizzu-and-streamlit/
 
