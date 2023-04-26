@@ -8,6 +8,7 @@ In this readme and the repo, you'll find a collection of useful resources relate
 - ipyvizzu documentation, examples & tutorial: http://ipyvizzu.com/ 
 - ipyvizzu-story documentation, examples & tutorial https://ipyvizzu-story.vizzuhq.com
 - available styling options: https://docs.google.com/spreadsheets/d/1b3e9L72EmLKib2dOZiBAOtPRLyibQJ3BkBIiVB2mKRg/edit#gid=0
+- ipyvizzu theme builder template in Deepnote: https://deepnote.com/@kristof-klein-79d7/ipyvizzu-theme-builder-template-90334c7a-c554-4934-9b4e-139983a85d92 
 <br/><br/>
 - ipyvizzu repo: https://github.com/vizzuhq/ipyvizzu - :star2:'s are very much appreciated.
 - ipyvizzu-story repo: https://github.com/vizzuhq/ipyvizzu-story
