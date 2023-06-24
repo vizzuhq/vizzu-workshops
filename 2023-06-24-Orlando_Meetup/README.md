@@ -1,5 +1,5 @@
 ## Hello there!
-### Welcome to the repository folder for the Vizzu talk @ PyCon Lithuania: Let them explore! Building interactive, animated reports in Streamlit with ipyvizzu & a few lines of Python
+### Welcome to the repository folder for the Vizzu talk @ Orlando Machine Learning and Data Science Meetup
 ## We're thrilled to have you here with us! :blush:
 
 In this readme and the repo, you'll find a collection of useful resources related to the talk, such as the ipyvizzu notebooks used throughout the session, along with some additional ones that I've prepared for you to experiment and learn more about our tools.
@@ -7,13 +7,14 @@ In this readme and the repo, you'll find a collection of useful resources relate
 Moreover, you'll find some helpful links to the Streamlit app and its source code, the ipyvizzu documentation, as well as to the bidirectional component that integrates ipyvizzu into Streamlit.
 
 ### Useful links
-- The tutorial app for using ipyvizzu in Streamlit: https://intro-to-vizzu-in.streamlit.app/
-- Streamlit-Vizzu bidirectional component code, how-to and source code of the tutorial app: https://github.com/vizzu-streamlit/streamlit-vizzu
 - ipyvizzu documentation, examples & tutorial: http://ipyvizzu.com/ 
 - ipyvizzu-story documentation, examples & tutorial https://ipyvizzu-story.vizzuhq.com
-
+<br/><br/>
 - ipyvizzu repo: https://github.com/vizzuhq/ipyvizzu - :star2:'s are very much appreciated.
 - ipyvizzu-story repo: https://github.com/vizzuhq/ipyvizzu-story
+<br/><br/>
+- The tutorial app for using ipyvizzu in Streamlit: https://intro-to-vizzu-in.streamlit.app/
+- Streamlit-Vizzu bidirectional component code, how-to and source code of the tutorial app: https://github.com/vizzu-streamlit/streamlit-vizzu
 <br/><br/>
 
 ### Come join our community!
