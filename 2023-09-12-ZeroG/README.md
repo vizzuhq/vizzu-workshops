@@ -7,6 +7,7 @@ Here you'll find a collection of useful resources related to the talk, such as t
 Moreover, you'll find some helpful links to the Streamlit app and its source code, the ipyvizzu documentation, as well as to the bidirectional component that integrates ipyvizzu into Streamlit.
 
 ### Useful links
+- A longer version of the workshop recorded at PyData Seattle in April 2023: https://www.youtube.com/watch?v=h1iZyU_iX5g
 - The tutorial app for using ipyvizzu in Streamlit: https://intro-to-vizzu-in.streamlit.app/
 - Streamlit-Vizzu bidirectional component code, how-to and source code of the tutorial app: https://github.com/vizzu-streamlit/streamlit-vizzu
 <br/><br/>
