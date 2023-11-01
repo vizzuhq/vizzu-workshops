@@ -4,17 +4,21 @@
 
 In this readme and the repo, you'll find a collection of useful resources related to the workshop.
 
-Moreover, you'll find some helpful links to the Streamlit apps and their source code, the ipyvizzu documentation, as well as to the bidirectional component that integrates ipyvizzu into Streamlit.
+Moreover, you'll find some helpful links to the Streamlit apps and their source code, the ipyvizzu documentation, and the bidirectional component that integrates ipyvizzu into Streamlit.
 
 ### Useful links
 - The tutorial app for using ipyvizzu in Streamlit: https://intro-to-vizzu-in.streamlit.app/
 - Vizzu builder app: https://vizzu-builder.streamlit.app/
 
-#### Sample data
-- There are sample datasets in the data folder
-- You can use the Vega datasets: https://github.com/altair-viz/vega_datasets
-- Or your own data in csv format
-<br/><br/>
+### Steps to start individual work
+- Find someone to work with - it's always easier to learn new stuff together
+- Check out and get through the installation guide below if you haven't already
+- Fork the repo of the tutorial app (locally if you will) - https://github.com/vizzu-streamlit/streamlit-vizzu-intro/
+- Get some data! Check out the sample datasets in the tutorial repo (or within the data folder here; they are identical) and pick one you want to start working with. You can also use your own CSV or samples from the Vega datasets: https://github.com/altair-viz/vega_datasets
+- Create a new py file and reuse snippets from the tutorial examples - remember, most of them are in the pages folder
+- Use the builder app to generate ipyvizzu code: https://vizzu-builder.streamlit.app/ and reuse it within your app
+- Be creative! :)
+- Share your app using the Streamlit Community Cloud
 
 ### Installation guide
   **For Those With Experience in Python and Local Development:**
