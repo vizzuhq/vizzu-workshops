@@ -1,24 +1,45 @@
 ## Hello there!
-### Welcome to the repository folder for the Vizzu tutorial @ PyCon MEA
+### Welcome to the repository folder for the Vizzu & Streamlit tutorial @ PyData NYC 2023
 ## We're thrilled to have you here with us! :blush:
 
-In this readme and the repo, you'll find a collection of useful resources related to the talk and the workshop, such as the ipyvizzu notebooks used throughout the sessions, along with some additional ones that I've prepared for you to experiment and learn more about our tool.
+In this readme and the repo, you'll find a collection of useful resources related to the workshop.
 
-Moreover, you'll find some helpful links to the Streamlit app and its source code, the ipyvizzu documentation, as well as to the bidirectional component that integrates ipyvizzu into Streamlit.
+Moreover, you'll find some helpful links to the Streamlit apps and their source code, the ipyvizzu documentation, as well as to the bidirectional component that integrates ipyvizzu into Streamlit.
 
 ### Useful links
 - The tutorial app for using ipyvizzu in Streamlit: https://intro-to-vizzu-in.streamlit.app/
-- Streamlit-Vizzu bidirectional component code, how-to and source code of the tutorial app: https://github.com/vizzu-streamlit/streamlit-vizzu
+- Vizzu builder app: https://vizzu-builder.streamlit.app/
+
+#### Sample data
+- There are sample datasets in the data folder
+- You can use the Vega datasets: https://github.com/altair-viz/vega_datasets
+- Or your own data in csv format
 <br/><br/>
-- Installation guides of Anaconda & Streamlit: https://www.anaconda.com/download, https://docs.streamlit.io/library/get-started/installation
+
+### Installation guide
+  **For Those With Experience in Python and Local Development:**
+
+If you're accustomed to working with Python packages locally and prefer having everything set up on your machine, this pathway is for you.
+
+- **Environment Setup**: Install Streamlit, streamlit-vizzu, and pandas (along with their dependencies) in a virtual environment. Both pip and conda are great options for this step.
+- **Download Sample Materials**: Grab the sample apps and datasets using [this link](https://github.com/vizzu-streamlit/streamlit-vizzu-intro/archive/refs/heads/main.zip). Download and extract the zip file to a convenient location on your computer.
+- **Get Ready to Share**: Planning to showcase your work publicly? Create a free account at [Streamlit Community Cloud](https://streamlit.io/cloud) to share your apps with the world. Keep in mind that Streamlit requests access to all your public repositories. If this raises any concerns for you, a straightforward solution is to create a new GitHub account.
+
+**For Those New to Python Packages and Local Setup:**
+
+If you're newer to the world of Python or prefer a setup that doesn't require local installations, we've got you covered.
+
+- **GitHub Account**: Ensure you have a GitHub account ready to go. If not, you can create one [here](https://github.com/join).
+- **Streamlit Community Cloud**: Set up your free account at [Streamlit Community Cloud](https://streamlit.io/cloud) to run and share apps directly from your browser.
+- **Get Coding in the Cloud**: Once registered, you can write code and work with sample apps directly in your browser through Codespace, with no local setup required. For more info on this last step, read this blogpost: https://blog.streamlit.io/edit-inbrowser-with-github-codespaces/
+
+### Other links
+- Streamlit intro presentation by Zachary: https://docs.google.com/presentation/d/1asGx8vMvvHjqLENL0G1J84wDOojBUp5jBo5CaE_CQlo/edit#slide=id.g29371e65c4e_0_0
+- Streamlit-Vizzu bidirectional component code: https://github.com/vizzu-streamlit/streamlit-vizzu
 - Streamlit Community Cloud sign-up and documentation: https://streamlit.io/cloud & https://docs.streamlit.io/streamlit-community-cloud
 <br/><br/>
 - ipyvizzu documentation, examples & tutorial: http://ipyvizzu.com/ 
 - ipyvizzu repo: https://github.com/vizzuhq/ipyvizzu - :star2:'s are very much appreciated.
-<br/><br/>
-- ipyvizzu-story documentation, examples & tutorial https://ipyvizzu-story.vizzuhq.com
-- ipyvizzu-story repo: https://github.com/vizzuhq/ipyvizzu-story
-- Blog post about using ipyvizzu-story in Streamlit: https://blog.streamlit.io/create-an-animated-data-story-with-ipyvizzu-and-streamlit/
 <br/><br/>
 
 ### Come join the community!
