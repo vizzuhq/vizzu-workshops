@@ -21,7 +21,9 @@ Moreover, you'll find some helpful links to the Streamlit apps and their source 
 
 If you're accustomed to working with Python packages locally and prefer having everything set up on your machine, this pathway is for you.
 
-- **Environment Setup**: Install Streamlit, streamlit-vizzu, and pandas (along with their dependencies) in a virtual environment. Both pip and conda are great options for this step.
+- **Environment Setup**: Install Streamlit, streamlit-vizzu, and ipyvizzu-story (along with their dependencies) in a virtual environment. Both pip and conda are great options for this step.
+  
+`pip install streamlit streamlit-vizzu ipyvizzu-story`
 - **Download Sample Materials**: Grab the sample apps and datasets using [this link](https://github.com/vizzu-streamlit/streamlit-vizzu-intro/archive/refs/heads/main.zip). Download and extract the zip file to a convenient location on your computer.
 - **Get Ready to Share**: Planning to showcase your work publicly? Create a free account at [Streamlit Community Cloud](https://streamlit.io/cloud) to share your apps with the world. Keep in mind that Streamlit requests access to all your public repositories. If this raises any concerns for you, a straightforward solution is to create a new GitHub account.
 
