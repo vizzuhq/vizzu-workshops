@@ -32,5 +32,3 @@ We love to see our community members actively engaged with us! There are a few w
 Thank you for your time, and we look forward to hearing from you soon!
 
    *Peter & the Vizzu Team*
-https://docs.streamlit.io/library/get-started/installation
-https://docs.streamlit.io/streamlit-community-cloud 

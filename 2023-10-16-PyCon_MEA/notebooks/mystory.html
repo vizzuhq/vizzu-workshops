@@ -1,11 +1,11 @@
 
 <div>
-    <vizzu-player id="2ee13d2"   controller></vizzu-player>
+    <vizzu-player id="dc2dd17"   controller></vizzu-player>
     <script type="module">
-        import VizzuPlayer from "https://cdn.jsdelivr.net/npm/vizzu-story@0.6/dist/vizzu-story.min.js";
+        import VizzuPlayer from "https://cdn.jsdelivr.net/npm/vizzu-story@0.5/dist/vizzu-story.min.js";
 
         class IpyvizzuStory {
-            static version = "0.9.0";
+            static version = "0.8.0";
             static analytics = undefined;
 
             static changeAnalyticsTo(analytics) {
@@ -49,7 +49,7 @@
 
         window.IpyvizzuStory?.changeAnalyticsTo(true);
 
-        const vp = document.getElementById("2ee13d2");
+        const vp = document.getElementById("dc2dd17");
         vp.initializing.then(chart => {
             const lib = vp.Vizzu;
 
