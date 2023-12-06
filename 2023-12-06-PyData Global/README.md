@@ -1,5 +1,5 @@
 ## Hello there!
-### Welcome to the repository folder for the Vizzu talk @ PyData Global 2023
+### Welcome to the repository folder for the Vizzu talk & tutorial @ PyData Global 2023
 ## We're thrilled to have you here with us! :blush:
 
 In this readme and the repo, you'll find a collection of useful resources related to the workshop.
