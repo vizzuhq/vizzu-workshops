@@ -1,5 +1,5 @@
 ## Hello there!
-### Welcome to the repository folder for the Vizzu talk @ The Budapest BI Forum
+### Welcome to the repository folder for the Vizzu talk @ PyData Global 2023
 ## We're thrilled to have you here with us! :blush:
 
 In this readme and the repo, you'll find a collection of useful resources related to the workshop.
@@ -9,6 +9,7 @@ Moreover, you'll find some helpful links to the Streamlit apps and their source 
 ### Useful links
 - The tutorial app for using ipyvizzu in Streamlit: https://intro-to-vizzu-in.streamlit.app/
 - Vizzu builder app: https://vizzu-builder.streamlit.app/
+- Slides: https://drive.google.com/uc?export=download&id=1TiEoSFSFhDTpK8V6453Sh2rl14d13o1x
 
 ### Steps to start individual work
 - Check out and get through the installation guide below 
