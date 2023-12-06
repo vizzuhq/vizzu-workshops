@@ -9,7 +9,9 @@ Moreover, you'll find some helpful links to the Streamlit apps and their source 
 ### Useful links
 - The tutorial app for using ipyvizzu in Streamlit: https://intro-to-vizzu-in.streamlit.app/
 - Vizzu builder app: https://vizzu-builder.streamlit.app/
+- PyData Global repo: https://github.com/vizzu-streamlit/streamlit-vizzu-pydata-global
 - PyData Global app: https://pydata-global.streamlit.app/
+  
 - Vizzu PPT Slides: https://drive.google.com/uc?export=download&id=1TiEoSFSFhDTpK8V6453Sh2rl14d13o1x
 - Streamlit Google Slides: https://docs.google.com/presentation/d/1VgHph7HyQ5hFnJDLLSyI_5ioz2paJEAjAmiKrz7K90k/edit?usp=sharing
 
